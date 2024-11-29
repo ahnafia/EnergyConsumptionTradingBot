@@ -5,9 +5,9 @@ from lumibot.strategies.strategy import Strategy
 from lumibot.traders import Trader
 from datetime import datetime
 
-API_KEY = "PKLM2IXH3UVHJHWLTJ2B"
-API_SECRECT = "EIzrfbFBdVaeZI8QtorItG1AIu9IBYM6HaLZfdqe"
-BASE_URL = "https://paper-api.alpaca.markets/v2"
+API_KEY = ""
+API_SECRECT = ""
+BASE_URL = ""
 
 ALPACA_CREDS = {
     "API_KEY": API_KEY,
